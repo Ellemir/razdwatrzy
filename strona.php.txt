@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+
+  "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="pl">
+
+<head>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+  <title>%tytul_strony%</title>
+
+</head>
+
+<body>
+
+<table style="text-align:center" width="800">
+
+  <tr style="height:80px;">
+
+  <td valign="middle" colspan="2" style="text-align:left;">
+
+      <h1 style="font-family:Verdana,Arial,Helvetica;color:#6495ED;">
+
+        Nasz serwis WWW!
+
+      </h1>
+
+     <hr style="color:#6495ED;height:2px">
+
+    </td>
+
+  </tr>
+
+  <tr style="height:400px;">
+
+    <td valign="top">
+
+     <div style="font-size:10pt;font-family:Verdana,Arial,Helvetica;text-align:left;color:#6495ED;">
+
+      %menu%
+
+     </div>
+
+    </td>
+
+    <td valign="top" style="width:650px">
+
+     <div style="font-size:10pt;font-family:Verdana,Arial,Helvetica;text-align:left;">
+
+      %tresc%
+
+     </div>
+
+    </td>
+
+  </tr>
+
+  <tr style="height:50px;">
+
+    <td valign="middle" colspan="2">
+
+     <hr style="color:#6495ED;height:2px">
+
+     <div style="text-align:center">
+
+       <span style="font-size:8pt; font-family:Verdana,Arial,Helvetica;">
+
+       <b>Nasze przedsiêbiorstwo &copy; 2009</b>
+
+       </span>
+
+     </div>
+
+    </td>
+
+  </tr>
+
+</table>
+
+</body>
+
+</html>
